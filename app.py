@@ -1,6 +1,6 @@
 import os
 from flask import Flask
-from ci_cd_example import generator
+from buzz import generator
 
 app = Flask(__name__)
 
