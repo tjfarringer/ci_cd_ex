@@ -1,6 +1,6 @@
 import os
 from flask import Flask
-import generator
+from ci_cd_example import generator
 
 app = Flask(__name__)
 
